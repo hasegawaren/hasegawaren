@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Phichittra Jeenduang
 
-<!--
-**hasegawaren/hasegawaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering graduate (First-Class Honors) from Srinakharinwirot University  
+💻 Fullstack Developer | Specializing in Flutter, React, Node.js, and Python
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+- 🔍 [Sumify](https://github.com/hasegawaren/sumify) — AI-powered summarizer for PDF, Wikipedia, and text (Next.js + FastAPI)
+- 👩‍⚕️ [CKD Risk Screening System](https://github.com/hasegawaren/ckd-screening) — AI-based risk prediction tool for diabetic patients (HTML/CSS/JS + Python) [📄 View Paper](https://thaihta.org/journal/file/files/ThaiHTJ_5-2-06.pdf)
+- 🏥 [FlexBenefit](https://github.com/hasegawaren/flexbenefit) — Employee welfare management system (Flutter + React + Node.js + SQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+`Flutter` • `React.js` • `Next.js` • `Node.js` • `FastAPI` • `Python`  
+`MySQL` • `PostgreSQL` • `Figma` • `Git` • `Vercel` • `Railway`
+
+## 📫 Connect with me
+📧 phichittrajeenduang@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/phichittra-jeenduang-8363282a2/) | [GitHub](https://github.com/hasegawaren)
