@@ -1,6 +1,6 @@
 # Hi, I'm Phichittra Jeenduang
 
-Computer Engineering graduate GPAX 3.70 (First-Class Honors) from Srinakharinwirot University  
+Computer Engineering graduate GPAX 3.72 (First-Class Honors) from Srinakharinwirot University  
 Fullstack Developer | Specializing in Flutter, Next, React, Node.js, and Python
 
 ## Featured Projects
